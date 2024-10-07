@@ -1,0 +1,8 @@
+.container_menu-bar>ul{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.container_menu-bar>ul>li{
+    list-style: none;
+}
